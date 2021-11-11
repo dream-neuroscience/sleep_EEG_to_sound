@@ -1,0 +1,13 @@
+- find a good edf
+	not too many channels
+	whole night
+	--> Erlacher 1?
+
+use librosa as before
+	find the other script
+
+select only EEG channels
+
+find a good SR conversion
+	so that functional EEG info is kept
+	and transformed to human-audible band
